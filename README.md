@@ -15,6 +15,10 @@ This project is part of my Udacity Data Scientist Nanodegree. The aim is to show
 - `wrangling_scripts` contains the script used to transform the data
 - `worldbank.py` starts the web sever
 
+## Output
+
+The running webapp can be viewed [here](https://dsnd-jbm1991-world-bank-dash.herokuapp.com/)
+
 ## Licensing, Authors and Acknowledgements
 
 All data is from [The World Bank](https://data.worldbank.org/) and so please see their licensing for terms. Some of the code was provided by [Udacity](https://www.udacity.com), and the rest was written by me.
